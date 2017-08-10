@@ -7,6 +7,12 @@ $(document).ready(function() {
             	'https://soundcloud.com/user-64527441/gemmes-biaisees',
             	'https://soundcloud.com/user-64527441/gemmes-orangees',
                'https://soundcloud.com/user-64527441/gemmes-jades',
+              'https://soundcloud.com/user-64527441/experience42',
+              'https://soundcloud.com/user-64527441/experience42',
+              'https://soundcloud.com/user-64527441/experience42',
+              'https://soundcloud.com/user-64527441/experience42',
+              'https://soundcloud.com/user-64527441/experience42',
+              'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/experience42'];
 
   playSC(songs[0],false); // false = don't autoPlay, true = autoPlay
