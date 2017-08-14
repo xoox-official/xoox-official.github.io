@@ -13,7 +13,7 @@ $(document).ready(function() {
               'https://soundcloud.com/user-64527441/gemmes-tornade',
               'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/experience42',
-              'https://soundcloud.com/user-64527441/experience42'];
+              'https://soundcloud.com/user-64527441/gemmes-bizarres'];
 
   playSC(songs[0],false); // false = don't autoPlay, true = autoPlay
   getSCinfo(songs[0], 'thumbnail', true, true);
