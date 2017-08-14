@@ -11,7 +11,7 @@ $(document).ready(function() {
               'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/gemmes-aquatiques',
               'https://soundcloud.com/user-64527441/gemmes-tornade',
-              'https://soundcloud.com/user-64527441/experience42',
+              'https://soundcloud.com/user-64527441/gemmes-lumiere',
               'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/experience42'];
 
