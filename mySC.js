@@ -9,7 +9,7 @@ $(document).ready(function() {
                'https://soundcloud.com/user-64527441/gemmes-jades',
               'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/experience42',
-              'https://soundcloud.com/user-64527441/gemmesaquatiques',
+              'https://soundcloud.com/user-64527441/gemmes-aquatiques',
               'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/experience42',
               'https://soundcloud.com/user-64527441/experience42',
